@@ -1,4 +1,3 @@
-# Jaimin
 ## Name : Jaimin Baurasi
 
 ## Id: 202001403
